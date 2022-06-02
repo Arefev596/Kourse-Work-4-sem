@@ -1,0 +1,218 @@
+{
+   "code": 1,
+   "data": {
+      "json": {
+         "code": 3,
+         "user": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КЕМЕРОВСКАЯ РЕМОНТНО-ЭКСПЛУАТАЦИОННАЯ КОМПАНИЯ\"",
+         "buyer": "Лицевой счет №00343202 г.Кемерово, пр.Ленина, д.67 ,кв.15",
+         "items": [
+            {
+               "nds": 6,
+               "sum": 104656,
+               "name": "  Cодержание жилого помещения 04/2022",
+               "price": 104656,
+               "quantity": 1,
+               "paymentType": 7,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 13800,
+               "name": "  Горячее водоснабжение 04/2022",
+               "price": 13800,
+               "quantity": 1,
+               "paymentType": 7,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 13852,
+               "name": "  Обращение с ТКО 04/2022",
+               "price": 13852,
+               "quantity": 1,
+               "paymentType": 7,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 17059,
+               "name": "  Водоотведение 04/2022",
+               "price": 17059,
+               "quantity": 1,
+               "paymentType": 7,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 91081,
+               "name": "  Отопление 04/2022",
+               "price": 91081,
+               "quantity": 1,
+               "paymentType": 7,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 18196,
+               "name": "  Холодное водоснабжение 04/2022",
+               "price": 18196,
+               "quantity": 1,
+               "paymentType": 7,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 38280,
+               "name": "  Электроснабжение 04/2022",
+               "price": 38280,
+               "quantity": 1,
+               "paymentType": 7,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 37,
+               "name": "  Cодержание жилого помещения 05/2022",
+               "price": 37,
+               "quantity": 1,
+               "paymentType": 2,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 6,
+               "name": "  Обращение с ТКО 05/2022",
+               "price": 6,
+               "quantity": 1,
+               "paymentType": 2,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            },
+            {
+               "nds": 6,
+               "sum": 33,
+               "name": "  Отопление 05/2022",
+               "price": 33,
+               "quantity": 1,
+               "paymentType": 2,
+               "productType": 4,
+               "providerInn": "4205332195  ",
+               "providerData": {
+                  "providerName": "ООО \"КемРЭК\"",
+                  "providerPhone": [
+                     "+73842240456"
+                  ]
+               },
+               "paymentAgentByProductType": 8
+            }
+         ],
+         "ndsNo": 297000,
+         "region": "42",
+         "userInn": "4205332195  ",
+         "dateTime": "2022-05-10T12:10:00",
+         "kktRegId": "0002680707047894    ",
+         "metadata": {
+            "id": 4230536777714183936,
+            "ofdId": "ofd9",
+            "address": "650000,Россия,Кемеровская область - Кузбасс,,Кемерово г г.п.,,,Красноармейская ул элем. улично-дорожн.сети,true,д. 134А,,,,помещ. помещ 17",
+            "subtype": "receipt",
+            "receiveDate": "2022-05-10T05:14:01Z"
+         },
+         "operator": "Буль Я.Ю.",
+         "totalSum": 297000,
+         "creditSum": 0,
+         "numberKkt": "00106309698943",
+         "fiscalSign": 2525005313,
+         "prepaidSum": 0,
+         "retailPlace": "КемРЭК",
+         "shiftNumber": 201,
+         "cashTotalSum": 0,
+         "provisionSum": 0,
+         "ecashTotalSum": 297000,
+         "operationType": 1,
+         "redefine_mask": 10,
+         "requestNumber": 26,
+         "paymentAgentType": 8,
+         "fiscalDriveNumber": "9960440301111736",
+         "messageFiscalSign": 9.297274602825142e+18,
+         "paymentAgentPhone": [
+            "+73842240456"
+         ],
+         "appliedTaxationType": 2,
+         "fiscalDocumentNumber": 25173,
+         "fiscalDocumentFormatVer": 2
+      },
+      "html": "<table class=\"b-check_table table\"><tbody><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КЕМЕРОВСКАЯ РЕМОНТНО-ЭКСПЛУАТАЦИОННАЯ КОМПАНИЯ\"</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">650000, Россия, Кемеровская область - Кузбасс, Кемерово г г.п., Красноармейская ул элем. улично-дорожн.сети, true, д. 134А, помещ. помещ 17</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">ИНН 4205332195  </td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">&nbsp;</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">10.05.2022 12:10</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Чек № 26</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Смена № 201</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Кассир Буль Я.Ю.</td></tr><tr class=\"b-check_vblock-last b-check_center\"><td colspan=\"5\">Приход</td></tr><tr><td><strong>№</strong></td><td><strong>Название</strong></td><td><strong>Цена</strong></td><td><strong>Кол.</strong></td><td><strong>Сумма</strong></td></tr><tr class=\"b-check_item\"><td>1</td><td>  Cодержание жилого помещения 04/2022</td><td>1046.56</td><td>1</td><td>1046.56</td></tr><tr class=\"b-check_item\"><td>2</td><td>  Горячее водоснабжение 04/2022</td><td>138.00</td><td>1</td><td>138.00</td></tr><tr class=\"b-check_item\"><td>3</td><td>  Обращение с ТКО 04/2022</td><td>138.52</td><td>1</td><td>138.52</td></tr><tr class=\"b-check_item\"><td>4</td><td>  Водоотведение 04/2022</td><td>170.59</td><td>1</td><td>170.59</td></tr><tr class=\"b-check_item\"><td>5</td><td>  Отопление 04/2022</td><td>910.81</td><td>1</td><td>910.81</td></tr><tr class=\"b-check_item\"><td>6</td><td>  Холодное водоснабжение 04/2022</td><td>181.96</td><td>1</td><td>181.96</td></tr><tr class=\"b-check_item\"><td>7</td><td>  Электроснабжение 04/2022</td><td>382.80</td><td>1</td><td>382.80</td></tr><tr class=\"b-check_item\"><td>8</td><td>  Cодержание жилого помещения 05/2022</td><td>0.37</td><td>1</td><td>0.37</td></tr><tr class=\"b-check_item\"><td>9</td><td>  Обращение с ТКО 05/2022</td><td>0.06</td><td>1</td><td>0.06</td></tr><tr class=\"b-check_item\"><td>10</td><td>  Отопление 05/2022</td><td>0.33</td><td>1</td><td>0.33</td></tr><tr class=\"b-check_vblock-first\"><td colspan=\"3\" class=\"b-check_itogo\">ИТОГО:</td><td></td><td class=\"b-check_itogo\">2970.00</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">Наличные</td><td></td><td>0.00</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">Карта</td><td></td><td>2970.00</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">НДС не облагается</td><td></td><td>2970.00</td></tr><tr class=\"b-check_vblock-last\"><td colspan=\"5\">ВИД НАЛОГООБЛОЖЕНИЯ: </td></tr><tr class=\"b-check_vblock-first\"><td colspan=\"5\">РЕГ.НОМЕР ККТ: 0002680707047894    </td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ЗАВОД. №: </td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФН: 9960440301111736</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФД: 25173</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФПД#: 2525005313</td></tr><tr class=\"b-check_vblock-last\"><td colspan=\"5\" class=\"b-check_center\"><img src=\"/qrcode/generate?text=t%3D20220510T1210%26s%3D2970.00%26fn%3D9960440301111736%26i%3D25173%26fp%3D2525005313%26n%3D1\" alt=\"QR код чека\" width=\"35%\" loading=\"lazy\" decoding=\"async\"></td></tr></tbody></table>"
+   }
+}
